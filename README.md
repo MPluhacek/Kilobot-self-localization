@@ -9,9 +9,6 @@ For ARGoS use, the example experiment setup is provided in Coordinates_v1.argos.
 
 For direct deployment on Kilobots use Coordinates_v1.hex.
 
-For own compilation, un/comment  DEFINE ARGoS in the Coordinates_v1.c source file.
-
-
-Please report any bugs encountered.
+For own compilation, un/comment  DEFINE ARGOS in the Coordinates_v1.c source file.
 
 
