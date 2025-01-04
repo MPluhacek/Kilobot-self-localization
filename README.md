@@ -11,4 +11,5 @@ For direct deployment on Kilobots use Coordinates_v1.hex.
 
 For own compilation, un/comment  DEFINE ARGOS in the Coordinates_v1.c source file.
 
+<a href="https://doi.org/10.5281/zenodo.14599972"><img src="https://zenodo.org/badge/912188241.svg" alt="DOI"></a>
 
